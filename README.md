@@ -10,13 +10,13 @@ I'm a passionate software engineer with a love for coding and problem-solving. W
 - 📊 I have a knack for working with data and have used libraries like TensorFlow and Pandas.
 - 📫 Reach out to me via email: kiranzafar140@gmail.com
 
-## My Work and Contributions
+## Technologies I Love
 
-I've applied my knowledge and skills to various projects and made contributions in both the Development and Artificial Intelligence domains.
+I'm passionate about a wide range of programming languages and technologies, including:
 
-You can explore more of my work and contributions on my [GitHub Repository](https://github.com/KiranZafar23?tab=repositories).
+- ⚙️ Python, Django, Pandas, Git/Github, Visual Studio Code
 
-Feel free to check out my repository for a comprehensive view of my projects and contributions.
+These are just a few of the technologies that I enjoy working with and have used in various projects. Stay tuned for more exciting technology explorations!
 
 ## Professional Experience
 
@@ -25,6 +25,14 @@ I've gained practical experience through diverse internships, including:
 - 🌟 Fellowship at Arbisoft.
 - 💼 Roles as a front-end developer at Wholly Digital.
 - 📈 Data Analyst virtual internship facilitated by Globalshala and Saint Louis University.
+
+## My Work and Contributions
+
+I've applied my knowledge and skills to various projects and made contributions in both the Development and Artificial Intelligence domains.
+
+You can explore more of my work and contributions on my [GitHub Repository](https://github.com/KiranZafar23?tab=repositories).
+
+Feel free to check out my repository for a comprehensive view of my projects and contributions.
 
 ## Soft Skills & Social Impact
 
@@ -37,14 +45,6 @@ Beyond technical prowess, I've cultivated essential soft skills such as effectiv
 ## Academia & Teaching
 
 My dedication extends to academia, where I've contributed as a teaching assistant in various courses. I believe in the power of education to drive innovation and modernization within the computer science field.
-
-## Technologies I Love
-
-I'm passionate about a wide range of programming languages and technologies, including:
-
-- ⚙️ Python, Django, Pandas, Git/Github, Visual Studio Code
-
-These are just a few of the technologies that I enjoy working with and have used in various projects. Stay tuned for more exciting technology explorations!
 
 
 ## Let's Connect
