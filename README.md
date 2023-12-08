@@ -28,9 +28,7 @@ I've gained practical experience through diverse internships, including:
 
 ## My Work and Contributions
 
-I've applied my knowledge and skills to various projects and made contributions in both the Development and Artificial Intelligence domains.
-
-You can explore more of my work and contributions on my [GitHub Repository](https://github.com/KiranZafar23?tab=repositories).
+I've applied my knowledge and skills to various projects and made contributions in both the Development and Artificial Intelligence domains. You can explore more of my work and contributions on my [GitHub Repository](https://github.com/KiranZafar23?tab=repositories).
 
 Feel free to check out my repository for a comprehensive view of my projects and contributions.
 
