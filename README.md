@@ -7,7 +7,7 @@ I'm a passionate software engineer with a love for coding and problem-solving. W
 - 🌐 I'm proficient in a diverse range of programming languages, including Python, C, and R.
 - 🚀 I have hands-on experience with frameworks like Django and React.js. <!-- - 🛠️ I'm skilled in using essential tools such as Git/GitHub and Visual Studio Code. -->
 - 📊 I have a knack for working with data and have used libraries like TensorFlow and Pandas.
-- 📫 Reach out to me via email: kiranzafar140@gmail.com
+- 📫 Reach out to me via email: kiranzafar@gmail.com
 
 <!--
 ## Technologies I Love
