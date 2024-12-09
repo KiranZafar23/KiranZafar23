@@ -49,7 +49,7 @@ My dedication extends to academia, where I've contributed as a teaching assistan
 
 I'm always interested in connecting with fellow developers, collaborating on interesting projects, and sharing knowledge. Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/kiran-zafar-68b113213/)
+- [LinkedIn](https://www.linkedin.com/)
 - [Github](https://github.com/KiranZafar23/)
 
 Thank you for visiting my GitHub profile! Let's code something amazing together. 🚀
